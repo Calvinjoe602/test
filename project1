@@ -1,7 +1,11 @@
 function 1{
-    bug;
-    bug;
+    its 
+    ok;
 }
 function 2{
-    bug;
+    complete;
+}
+
+function 3{
+    
 }
